@@ -3,7 +3,7 @@
  * check_cycle -linked list cycle
  * @list: the pointer to the struct
  *
- * Return: 0 if there is no cycle, 1 if there is a cycle
+ * Return: 0 no cycle, 1  cycle
  */
 int check_cycle(listint_t *list)
 {
