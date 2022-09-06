@@ -6,7 +6,7 @@ objects and ES6-style classes.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX School.
 
 ## Function Prototypes :floppy_disk:
 
