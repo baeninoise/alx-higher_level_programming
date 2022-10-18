@@ -1,7 +1,7 @@
 # Javascript - Web JQuery
 
 This was the preparatory project learning how to manipulate the DOM with jQuery
-before implementing it into our HolbertonBnB project.
+before implementing it into our AirBnB project.
 
 ## Tests :heavy_check_mark:
 
@@ -56,7 +56,6 @@ before implementing it into our HolbertonBnB project.
   `https://fourtonfish.com/hellosalut/?lang=fr`.
   * Displays the translation in the HTML tag `DIV#hello`.
   * Works when imported in the `HEAD` tag.
-
 * **10. No jQuery - document loaded**
   * [100-script.js](./100-script.js): JavaScript script that uses `document.querySelector`
   to update the text color of the HTML tag `HEADER` to red (`#ff0`).
